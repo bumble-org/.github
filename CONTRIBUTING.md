@@ -24,22 +24,4 @@ The bigger the pull request, the longer it will take to review and merge. Try to
 
 It is also always helpful to have some context for your pull request. What was the purpose? Why does it matter to you? Does it resolve any known Github issues? Adding a line "resolves #<issue number>" (e.g. "resolves #23") to the description of your pull request or of a specific commit will automatically close this issue once the pull request is merged.
 
-<!-- ## Financial contributions
-
-We also welcome financial contributions in full transparency on our [open collective](https://opencollective.com/rollup).
-Anyone can file an expense. If the expense makes sense for the development of the community, it will be "merged" in the ledger of our open collective by the core contributors and the person who filed the expense will be reimbursed. -->
-
-<!-- ## Questions
-
-If you require technical assistance, [Stackoverflow](https://stackoverflow.com/questions/tagged/rollupjs) or [Gitter](https://gitter.im/rollup/rollup) are usually the best places to start.
-You can also create an [issue](issue) (protip: do a quick search first to see if someone else didn't ask the same question before!). -->
-
-<!-- ## Credits
-
-### Contributors
-
-Thank you to all the people who have already contributed to rollup!
-<a href="graphs/contributors"><img src="https://opencollective.com/rollup/contributors.svg?width=890" /></a> -->
-
-
 <!-- This `CONTRIBUTING.md` is based on @nayafia's template https://github.com/nayafia/contributing-template -->
